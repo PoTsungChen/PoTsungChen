@@ -20,7 +20,7 @@ I am a seasoned financial professional with a background in **Capital Markets** 
 
 ---
 
-### 🧠 Why My Profile is Unique
+### 🚀 Why My Profile is Unique
 > "I don't just write queries; I understand the 'why' behind the data. Having managed daily trading volumes exceeding **$1 billion**, I bring a level of data integrity and risk awareness that is rare in pure-technical roles."
 
 ---
