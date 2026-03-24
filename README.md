@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Po-Tsung (Kevin) Chen 
 
-### 📈 Finance Team Lead | Aspiring Analytics Engineer
+### 📈 Finance Team Lead | Aspiring Data Analysts
 I am a seasoned financial professional with a background in **Capital Markets** and **P&L Analysis**, currently pivoting into **Data Analytics*. After years of leading teams and managing high-volume trading data, I am now building the modern data tech stack to bridge the gap between complex financial markets and data-driven insights.
 
 ---
@@ -14,7 +14,7 @@ I am a seasoned financial professional with a background in **Capital Markets** 
 
 | Category | Skills |
 | :--- | :--- |
-| **Data Analytics** | Excel, SQL (PostgreSQL, SQL Server),ETL Pipelines|
+| **Data Analytics** | Excel, SQL (PostgreSQL, SQL Server), ETL Pipelines|
 | **Visualization** | Power BI |
 | **Finance Core** | FX Derivatives, Fixed Income, P&L Analysis & Reportinge |
 
