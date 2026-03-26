@@ -25,8 +25,8 @@ I am a seasoned financial professional with a background in **Capital Markets** 
 
 ---
 
-### 📫 Connect with Me
+### 📩 Connect with Me
 * 💼 **LinkedIn:** www.linkedin.com/in/po-tsung-chen-538b06b1
-* 📍 **Status:** Open to Analytics Engineer or Data Analyst roles.
+* 💻 **Status:** Open to Analytics Engineer or Data Analyst roles.
 
 ---
