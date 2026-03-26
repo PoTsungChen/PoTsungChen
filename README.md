@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Po-Tsung (Kevin) Chen 
 
-### 📈 Finance Team Lead | Aspiring Data Analysts
+### 📈 Finance Team Lead | Aspiring Data Analyst
 I am a seasoned financial professional with a background in **Capital Markets** and **P&L Analysis**, currently pivoting into *Data Analytics*. After years of leading teams and managing high-volume trading data, I am now building the modern data tech stack to bridge the gap between complex financial markets and data-driven insights.
 
 ---
