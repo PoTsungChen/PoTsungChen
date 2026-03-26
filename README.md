@@ -15,7 +15,7 @@ I am a seasoned financial professional with a background in **Capital Markets** 
 | Category | Skills |
 | :--- | :--- |
 | **Data Analytics** | Excel, SQL (PostgreSQL, SQL Server), ETL Pipelines|
-| **Visualization** | Power BI |
+| **Data Visualization** | Power BI |
 | **Finance Core** | FX Derivatives, Fixed Income, P&L Analysis & Reportinge |
 
 ---
