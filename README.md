@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Po-Tsung (Kevin) Chen 
 
 ### 📈 Finance Team Lead | Data Analyst
-I am a seasoned financial professional with a background in **Capital Markets** and **P&L Analysis**, currently pivoting into *Data Analytics*. After years of leading teams and managing high-volume trading data, I am now building the modern data tech stack to bridge the gap between complex financial markets and data-driven insights.
 
+#### Financial professional specializing in Capital Markets and Profit & Loss Analysis. I translate complex financial datasets into actionable business insights and deliver robust business intelligence for senior stakeholders.
 ---
 
 ### 🛠️ Tech Stack & Domain Expertise
@@ -16,17 +16,17 @@ I am a seasoned financial professional with a background in **Capital Markets** 
 | :--- | :--- |
 | **Data Analytics** | Excel, SQL (PostgreSQL, SQL Server) |
 | **Data Visualization** | Power BI |
-| **Finance Core** | FX Derivatives, Fixed Income, P&L Analysis & Reportinge |
+| **Finance Core** | FX Derivatives, Fixed Income, P&L Analysis |
 
 ---
 
 ### 🚀 Why My Profile is Unique
-> "I don't just write queries; I understand the 'why' behind the data. Having managed daily trading volumes exceeding **$1 billion**, I bring a level of data integrity and risk awareness that is rare in pure-technical roles."
+"I don't just write queries; I understand the 'why' behind the data. Having managed daily trading volumes exceeding **$1 billion**, I bring a level of data integrity and risk awareness that is rare in pure-technical roles."
 
 ---
 
 ### 📩 Connect with Me
 * 💼 **LinkedIn:** www.linkedin.com/in/po-tsung-chen-538b06b1
-* 💻 **Status:** Open to Analytics Engineer or Data Analyst roles.
+* 💻 **Status:** Open to Data Analyst roles.
 
 ---
