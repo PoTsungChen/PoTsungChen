@@ -5,6 +5,10 @@
 #### Financial professional specializing in Capital Markets and Profit & Loss Analysis. I transform complex financial datasets into actionable business insights and deliver robust business intelligence for senior stakeholders.
 ---
 
+### 📁 Projects
+
+Check out my  project: [Global-Layoff-Analysis(SQL & Power BI)](https://github.com/PoTsungChen/Global-Layoff-Analysis)
+
 ### 🛠️ Tech Stack & Domain Expertise
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
