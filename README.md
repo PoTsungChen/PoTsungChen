@@ -2,7 +2,7 @@
 
 ### 📈 Finance Team Lead | Data Analyst
 
-#### Financial professional specializing in Capital Markets and Profit & Loss Analysis. I transform complex financial data into actionable business insights and deliver robust business intelligence for senior stakeholders.
+#### Financial professional specializing in Profit & Loss data analysis. I transform complex financial data into actionable business insights and deliver robust business intelligence for senior stakeholders.
 ---
 
 ### 📁 Projects
