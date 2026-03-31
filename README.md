@@ -7,7 +7,7 @@
 
 ### 📁 Projects
 
-Check out my  project: [Global-Layoff-Analysis(SQL & Power BI)](https://github.com/PoTsungChen/Global-Layoff-Analysis)
+Check out my  project: [Global-Layoff-Analysis (SQL & Power BI)](https://github.com/PoTsungChen/Global-Layoff-Analysis)
 
 ### 🛠️ Tech Stack & Domain Expertise
 
