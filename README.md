@@ -20,7 +20,7 @@ Check out my  project: [Global-Layoff-Analysis (SQL & Power BI)](https://github.
 | :--- | :--- |
 | **Data Analytics** | Excel, SQL (PostgreSQL, SQL Server) |
 | **Data Visualization** | Power BI |
-| **Finance Core** | FX Derivatives, Fixed Income, P&L Analysis |
+| **Data warehouse** | Snowflake, Bigquery|
 
 ---
 
