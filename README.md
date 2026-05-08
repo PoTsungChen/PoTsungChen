@@ -7,7 +7,7 @@
 
 ### 📁 Projects
 
-Check out my  project: [Shopee Ecommerce Sales Analysis)](https://github.com/PoTsungChen/Shopee-Ecommerce-Sales-Analysis)
+Check out my  project: [Shopee Ecommerce Sales Analysis](https://github.com/PoTsungChen/Shopee-Ecommerce-Sales-Analysis)
 
 ### 🛠️ Tech Stack & Domain Expertise
 
