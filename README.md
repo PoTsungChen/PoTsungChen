@@ -25,8 +25,7 @@ Check out my  project: [Shopee Ecommerce Sales Analysis](https://github.com/PoTs
 ---
 
 ### 🚀 Why My Profile is Unique
-"I don't just write queries; I understand the 'why' behind the data. Having managed daily trading volumes exceeding **$1 billion**, I bring a level of data integrity and risk awareness that is rare in pure-technical roles."
-
+"I don’t just write queries; I architect the 'why' behind the data. With over a decade of experience in high-stakes financial analysis, I bring a level of technical rigor and data integrity to data analytics that is rare in purely technical roles. I specialize in transforming complex datasets into actionable business insights."
 ---
 
 ### 📩 Connect with Me
