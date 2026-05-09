@@ -18,7 +18,7 @@ Check out my  project: [Shopee Ecommerce Sales Analysis](https://github.com/PoTs
 
 | Category | Skills |
 | :--- | :--- |
-| **Data Analytics** | Excel, SQL (PostgreSQL, SQL Server) |
+| **Data Analytics** | SQL (PostgreSQL, SQL Server), Excel |
 | **Data Visualization** | Power BI |
 | **Data warehouse** | Snowflake, Bigquery|
 
